@@ -59,3 +59,4 @@ module can_tx_fsm_tb;
     end
 
 endmodule
+
