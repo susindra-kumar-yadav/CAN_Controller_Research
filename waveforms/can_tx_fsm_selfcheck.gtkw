@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Oct 15 15:09:04 2026
+[*]
+[dumpfile] "C:\Users\susin\Documents\CAN_Controller_Research\waveforms\can_tx_fsm_selfcheck.vcd"
+[dumpfile_mtime] "Thu Oct 15 14:25:15 2026"
+[dumpfile_size] 943
+[savefile] "C:\Users\susin\Documents\CAN_Controller_Research\waveforms\can_tx_fsm_selfcheck.gtkw"
+[timestart] 22980
+[size] 1536 793
+[pos] -165 -165
+*-13.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+can_tx_fsm_selfcheck_tb.clk
+can_tx_fsm_selfcheck_tb.rst_n
+can_tx_fsm_selfcheck_tb.tx_start
+can_tx_fsm_selfcheck_tb.dut.state
+can_tx_fsm_selfcheck_tb.tx_busy
+@421
+can_tx_fsm_selfcheck_tb.errors
+[pattern_trace] 1
+[pattern_trace] 0

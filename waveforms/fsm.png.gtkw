@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Oct 14 09:51:10 2026
+[*]
+[dumpfile] "C:\Users\susin\Documents\CAN_Controller_Research\waveforms\waveforms\can_tx_fsm.vcd"
+[savefile] "C:\Users\susin\Documents\CAN_Controller_Research\waveforms\fsm.png.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -113 -113
+*-4.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] can_tx_fsm_tb.
+[sst_width] 197
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+can_tx_fsm_tb.dut.IDLE
+can_tx_fsm_tb.dut.START
+can_tx_fsm_tb.dut.clk
+can_tx_fsm_tb.dut.rst_n
+can_tx_fsm_tb.dut.state
+can_tx_fsm_tb.dut.tx_busy
+@29
+can_tx_fsm_tb.dut.tx_start
+[pattern_trace] 1
+[pattern_trace] 0
